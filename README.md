@@ -1,4 +1,3 @@
-# Cleaning-US-Census-Data-Analysis-Project
 \documentclass{article}
 \usepackage{geometry}
 \geometry{a4paper, margin=2.5cm}
@@ -32,3 +31,13 @@ This project focuses on the analysis of census data and the creation of informat
 \section{Technologies Used}
 \begin{itemize}
   \item Python
+  \item pandas library for data manipulation and analysis
+  \item Data visualization libraries (e.g., matplotlib, seaborn) for generating visualizations
+  \item Git for version control and collaboration
+  \item GitHub for project hosting and documentation
+\end{itemize}
+
+
+\section{Future Enhancements}
+\begin{itemize}
+  \item Expand the analysis to include additional statistical techniques and advanced visualizations.
